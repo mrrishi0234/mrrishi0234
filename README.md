@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrrishi0234
+- 👋 Hi, I’m Rishi Raj
 - 👀 I’m a cyber security enthusiast
 - 🌱 I’m currently pursuing B.Tech CSE
 <!---
